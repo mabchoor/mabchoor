@@ -1,132 +1,191 @@
-# 👋 Hi there, I'm Mabchour Abderrahmane
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
-🎓 Software Engineering student specializing in Information Systems at ENSET Mohammedia, Morocco. Passionate about backend development, data science, and cloud technologies.
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/m-aberrahmane-dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Abderrahmanedev23" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+  <a href="mailto:m.abderrahmane.dev@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
+###
 
-## 📫 Contact Me
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abderrahmanedev23.Abderrahmanedev23&"  />
+</div>
 
-- 📍 **Location:** Mohammedia, Morocco
-- 📧 **Email:** [m.abderrahmane.dev@gmail.com](mailto:m.abderrahmane.dev@gmail.com)
-- 📞 **Phone:** +212 658-218341
-- 💼 **LinkedIn:** [m-aberrahmane-dev](https://www.linkedin.com/in/m-aberrahmane-dev)
-- 💻 **GitHub:** [mabchoor](https://github.com/mabchoor)
+###
 
----
+<h1 align="center">Hey there 👋 I'm Abderrahmane</h1>
 
-## 🧠 About Me
+###
 
-I'm a dedicated Software Engineering student with hands-on experience in C# development, network configuration, and data science. Currently seeking a PFA internship in Information Systems Development to apply and expand my skills.
+<h3 align="center">🚀 Software Engineering Student | Backend Developer | Data Science Enthusiast</h3>
 
----
+###
 
-## 🛠️ Technical Skills
+<h3 align="left">👨‍💻  About Me</h3>
 
-**Programming Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
-![Dart](https://img.shields.io/badge/-Dart-333?style=flat&logo=dart)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
+###
 
-**Frontend Technologies:**
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular)
-![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
+<p align="left">I'm a passionate Software Engineering student from Mohammedia, Morocco 🇲🇦<br><br>- 🎓 Pursuing State Engineering Degree at ENSET Mohammedia in Software Engineering & Distributed Information Systems<br>- 💼 Experienced in C# development, full-stack applications, and AI-powered solutions<br>- 🔭 Currently seeking PFE internship opportunities in Software Engineering & Information Systems Development<br>- 🌱 Learning advanced cloud architectures with AWS, containerization with Docker, and CI/CD pipelines<br>- 🤖 Passionate about AI, data science, and building intelligent systems<br>- 🤝 Team Leader at AIESEC in Morocco - Outgoing Global Talent<br>- ⚡ In my free time I contribute to open-source projects and explore new technologies<br>- 🌍 Fluent in French and English</p>
 
-**Backend Technologies:**
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
+###
 
-**DevOps & Tools:**
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+<h3 align="left">🛠 Languages and Tools</h3>
 
-**Databases:**
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333?style=flat&logo=oracle)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoft-sql-server)
+###
 
-**Cloud Platforms:**
-![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+</div>
 
----
+###
 
-## 🎓 Education
+<h3 align="left">🔥   My Stats :</h3>
 
-- **State Engineering Degree in Software Engineering and Distributed Information Systems**
-  - ENSET Mohammedia, Morocco | 2023 - 2026
+###
 
-- **Professional Bachelor's Degree in Networks, Cybersecurity, and Information Systems**
-  - Faculty of Sciences Semlalia, Marrakech, Morocco | 2022 - 2023
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abderrahmanedev23&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-- **Higher Technician Certificate (BTS) in Information Systems Development**
-  - Technical Excellence High School, Guelmim, Morocco | 2021 - 2022
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmanedev23&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmanedev23&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="languages graph"  />
+</div>
 
-## 💼 Professional Experience
+###
 
-**C# Developer Intern**  
-*Ministry of Interior, Morocco | 2024 (1 month)*  
-- Developed a C# application to automate certificate requests and leave management.
-- Implemented solutions to optimize administrative processes.
+<h3 align="center">💼 Professional Journey</h3>
 
-**Network Technician Intern**  
-*AUTO KMG, Casablanca | 2023 (2 months)*  
-- Developed an invoice management application using JavaFX.
-- Set up a new server and configured firewall for network security.
+###
 
-**Data Scientist Intern**  
-*DHBW, Baden-Württemberg, Germany | 2023 (2 months)*  
-- Developed a self-driving car with real-time traffic sign detection.
-- Utilized AI and Raspberry Pi in an international collaboration project.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">💻</td>
+      <td><b>C# Developer Intern</b><br>Ministry of Interior, Morocco (2024)<br><i>Automated certificate & leave management system</i></td>
+    </tr>
+    <tr>
+      <td align="center">🤖</td>
+      <td><b>Data Analyst Intern</b><br>DHBW, Baden-Württemberg, Germany (2023)<br><i>Self-driving car with AI-powered traffic sign detection</i></td>
+    </tr>
+    <tr>
+      <td align="center">🖥️</td>
+      <td><b>Desktop Developer Intern</b><br>DPEE, Guelmim (2022)<br><i>Land compensation management application</i></td>
+    </tr>
+    <tr>
+      <td align="center">🌐</td>
+      <td><b>Full Stack Developer Intern</b><br>High Commission for Planning, Guelmim (2021)<br><i>Inventory & equipment management system</i></td>
+    </tr>
+  </table>
+</div>
 
-**Desktop Developer Intern**  
-*DPEE, Guelmim | 2022 (1 month)*  
-- Designed and developed a C# application for land compensation management.
-- Contributed to the Tiznit-Laâyoune expressway project.
+###
 
----
+<h3 align="center">🏆 Certifications & Achievements</h3>
 
-## 🏆 Certifications
+###
 
-- **Networking Essentials** (Cisco, 2024)
-- **Linux Essentials** (Cisco, 2024)
-- **NDG Linux Unhatched** (Cisco, 2024)
-- **AWS Academy Learner Lab** (AWS Academy, 2024)
-- **AWS Academy Cloud Foundations** (AWS Academy, 2024)
-- **Encryption** (Internet Society, 2022)
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws cert" />
+  <img src="https://img.shields.io/badge/AWS-Learner_Lab-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws cert" />
+  <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco cert" />
+  <img src="https://img.shields.io/badge/Cisco-Linux_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco cert" />
+  <img src="https://img.shields.io/badge/Internet_Society-Encryption-0066CC?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="encryption cert" />
+</div>
 
----
+###
 
-## 🤝 Leadership Experience
+<h3 align="center">🎯 What I'm Focused On</h3>
 
-- **Team Leader – Outgoing Global Talent**, AIESEC in Morocco (Since Jan. 2025)
-- **Marketing Member**, AIESEC in Morocco (Sept. 2024 – Jan. 2024)
+###
 
----
+<div align="center">
+  <p>
+    🔹 Building scalable backend systems with microservices architecture<br>
+    🔹 Exploring AI/ML applications in real-world problems<br>
+    🔹 Contributing to open-source projects<br>
+    🔹 Leading teams and mentoring developers at AIESEC
+  </p>
+</div>
 
-## 🌐 Languages
+###
 
-- **French:** Professional proficiency
-- **English:** Professional proficiency
+<h3 align="center">📫 Let's Connect!</h3>
 
----
+###
 
-## 📈 GitHub Stats
+<div align="center">
+  <p>
+    📍 Mohammedia, Morocco<br>
+    📧 m.abderrahmane.dev@gmail.com<br>
+    📞 +212 658-218341<br>
+    💼 Open for PFE internship opportunities in Software Engineering
+  </p>
+</div>
 
-![Mabchour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabchoor&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabchoor&layout=compact&theme=radical)
+###
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
-*Let's connect and collaborate on exciting projects!*
+###
+
+<div align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</div>
