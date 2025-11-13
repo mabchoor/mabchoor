@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/m-aberrahmane-dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Abderrahmanedev23" target="_blank">
+  <a href="https://github.com/mabchoor" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
   <a href="mailto:m.abderrahmane.dev@gmail.com">
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abderrahmanedev23.Abderrahmanedev23&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mabchoor.mabchoor&"  />
 </div>
 
 ###
@@ -97,14 +97,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abderrahmanedev23&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mabchoor&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmanedev23&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmanedev23&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mabchoor&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabchoor&layout=compact&theme=radical&hide_border=false&border_radius=5" height="180" alt="languages graph"  />
 </div>
 
 ###
